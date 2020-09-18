@@ -1,2 +1,3 @@
 # Car-Insurance-Fraud
-ML project with data analysis and feature selection . Achieved 99% accuracy.
+ML project with data analysis and feature selection. 
+Achieved 99% accuracy using Support Vector Machine.
